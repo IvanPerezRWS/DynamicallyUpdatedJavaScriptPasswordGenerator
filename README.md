@@ -1,0 +1,2 @@
+# DynamicallyUpdatedJavaScriptPasswordGenerator
+Application that utilizes JavaScript to randomly generate passwords
